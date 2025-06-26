@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(191, 34, 34);
+    background-color: rgb(194, 177, 177);
     color: antiquewhite;
     font-family:Arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif ;
     margin: 0px;
@@ -9,4 +9,5 @@ body{
 header{
     border-bottom: solid 8px whitesmoke;
     padding: 20px;
+    
 }
