@@ -7,7 +7,15 @@ body{
 
 
 header{
+    font-family: monospace;
     border-bottom: solid 8px rgb(14, 158, 28);
     padding: 20px;
     
+}
+
+h1{
+    color: black;
+    font-family: ;
+    
+
 }
