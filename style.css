@@ -10,12 +10,15 @@ header{
     font-family: monospace;
     border-bottom: solid 8px rgb(14, 158, 28);
     padding: 20px;
+    color: whitesmoke;
     
 }
 
 h1{
     color: black;
-    font-family: ;
-    
+    font-family:
+}
 
+p{
+    color:blueviolet
 }
