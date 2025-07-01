@@ -1,24 +1,24 @@
 body{
-    background-color: rgb(168, 167, 176);
-    color: rgb(167, 96, 4);
-    font-family:Arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif ;
-    margin: 0px;
+   color: rgb(167, 96, 4);
+   background: black;
+   margin: 0px;
 }
-
 
 header{
-    font-variant-ligatures: additional-ligatures;
     border-bottom: solid 5px rgb(80, 108, 83);
-    padding: 10px;
-    color: whitesmoke;
-    
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);  
 }
 
-h1{
-    color: black;
-    font-family: sans-serif;
+section{
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
-p{
-    color:rgb(115, 122, 141)
+.chamada-texto{
+    margin-right: 5%;
 }
