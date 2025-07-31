@@ -22,3 +22,14 @@ section{
 .chamada-texto{
     margin-right: 10%;
 }
+
+img{
+    height:180px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+    
